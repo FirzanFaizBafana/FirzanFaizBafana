@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <img src="https://media.giphy.com/media/JtwISFbwSjfIk/giphy.gif?cid=ecf05e472474pgrbcthg3jeduobz8sq1i6p1c629rf8dv6qi&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Programming GIF" width="100%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2k3ZzN1M3Y2cDc3azV1OXpsem80czdvY3VlN2V6aHkzN2sxYXJhciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13Z5kstwARnPna/giphy.gif" alt="Programming GIF" width="100%">
 </div>
 
 ### 🧠 If you died tomorrow, would you be proud of the life you lived?
